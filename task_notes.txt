@@ -1,0 +1,532 @@
+//QUESTION NO-1:-
+//HOW TO COMPARE TWO JSON HAVE THE SAME PROPERTIES WITHOUT ORDER.
+
+//WITHOUT ORDER:-
+
+OUTPUT:-
+false
+
+//WITH ORDER:-
+
+OUTPUT:-
+true
+--------------------------------------------------------------------------------------------------------------
+
+//QUESTION NO-2:-
+/*USE THE REST COUNTRIES 'API URL'->"https://restcountries.com/v3.1/all",
+AND DISPLAYS ALL THE COUNTRY FLAGS IN THE CONSOLE.*/
+
+OUTPUT:-
+^^^^^^^
+script.js:12 png:https://flagcdn.com/w320/mr.png svg:https://flagcdn.com/mr.svg
+script.js:12 png:https://flagcdn.com/w320/aw.png svg:https://flagcdn.com/aw.svg
+script.js:12 png:https://flagcdn.com/w320/ar.png svg:https://flagcdn.com/ar.svg
+script.js:12 png:https://flagcdn.com/w320/se.png svg:https://flagcdn.com/se.svg
+script.js:12 png:https://flagcdn.com/w320/mv.png svg:https://flagcdn.com/mv.svg
+script.js:12 png:https://flagcdn.com/w320/mx.png svg:https://flagcdn.com/mx.svg
+script.js:12 png:https://flagcdn.com/w320/nz.png svg:https://flagcdn.com/nz.svg
+script.js:12 png:https://flagcdn.com/w320/ec.png svg:https://flagcdn.com/ec.svg
+script.js:12 png:https://flagcdn.com/w320/wf.png svg:https://flagcdn.com/wf.svg
+script.js:12 png:https://flagcdn.com/w320/ax.png svg:https://flagcdn.com/ax.svg
+script.js:12 png:https://flagcdn.com/w320/me.png svg:https://flagcdn.com/me.svg
+script.js:12 png:https://flagcdn.com/w320/pk.png svg:https://flagcdn.com/pk.svg
+script.js:12 png:https://flagcdn.com/w320/pn.png svg:https://flagcdn.com/pn.svg
+script.js:12 png:https://flagcdn.com/w320/zm.png svg:https://flagcdn.com/zm.svg
+script.js:12 png:https://flagcdn.com/w320/sc.png svg:https://flagcdn.com/sc.svg
+script.js:12 png:https://flagcdn.com/w320/my.png svg:https://flagcdn.com/my.svg
+script.js:12 png:https://flagcdn.com/w320/no.png svg:https://flagcdn.com/no.svg
+script.js:12 png:https://flagcdn.com/w320/uz.png svg:https://flagcdn.com/uz.svg
+script.js:12 png:https://flagcdn.com/w320/vu.png svg:https://flagcdn.com/vu.svg
+script.js:12 png:https://flagcdn.com/w320/tf.png svg:https://flagcdn.com/tf.svg
+script.js:12 png:https://flagcdn.com/w320/cx.png svg:https://flagcdn.com/cx.svg
+script.js:12 png:https://flagcdn.com/w320/sg.png svg:https://flagcdn.com/sg.svg
+script.js:12 png:https://flagcdn.com/w320/sr.png svg:https://flagcdn.com/sr.svg
+script.js:12 png:https://flagcdn.com/w320/eh.png svg:https://flagcdn.com/eh.svg
+script.js:12 png:https://flagcdn.com/w320/mf.png svg:https://flagcdn.com/mf.svg
+script.js:12 png:https://flagcdn.com/w320/cr.png svg:https://flagcdn.com/cr.svg
+script.js:12 png:https://flagcdn.com/w320/hm.png svg:https://flagcdn.com/hm.svg
+script.js:12 png:https://flagcdn.com/w320/ie.png svg:https://flagcdn.com/ie.svg
+script.js:12 png:https://flagcdn.com/w320/aq.png svg:https://flagcdn.com/aq.svg
+script.js:12 png:https://flagcdn.com/w320/au.png svg:https://flagcdn.com/au.svg
+script.js:12 png:https://flagcdn.com/w320/ly.png svg:https://flagcdn.com/ly.svg
+script.js:12 png:https://flagcdn.com/w320/qa.png svg:https://flagcdn.com/qa.svg
+script.js:12 png:https://flagcdn.com/w320/gl.png svg:https://flagcdn.com/gl.svg
+script.js:12 png:https://flagcdn.com/w320/mu.png svg:https://flagcdn.com/mu.svg
+script.js:12 png:https://flagcdn.com/w320/kz.png svg:https://flagcdn.com/kz.svg
+script.js:12 png:https://flagcdn.com/w320/io.png svg:https://flagcdn.com/io.svg
+script.js:12 png:https://flagcdn.com/w320/al.png svg:https://flagcdn.com/al.svg
+script.js:12 png:https://flagcdn.com/w320/bh.png svg:https://flagcdn.com/bh.svg
+script.js:12 png:https://flagcdn.com/w320/pg.png svg:https://flagcdn.com/pg.svg
+script.js:12 png:https://flagcdn.com/w320/bi.png svg:https://flagcdn.com/bi.svg
+script.js:12 png:https://flagcdn.com/w320/in.png svg:https://flagcdn.com/in.svg
+script.js:12 png:https://flagcdn.com/w320/uy.png svg:https://flagcdn.com/uy.svg
+script.js:12 png:https://flagcdn.com/w320/lc.png svg:https://flagcdn.com/lc.svg
+script.js:12 png:https://flagcdn.com/w320/bb.png svg:https://flagcdn.com/bb.svg
+script.js:12 png:https://flagcdn.com/w320/nc.png svg:https://flagcdn.com/nc.svg
+script.js:12 png:https://flagcdn.com/w320/lv.png svg:https://flagcdn.com/lv.svg
+script.js:12 png:https://flagcdn.com/w320/ee.png svg:https://flagcdn.com/ee.svg
+script.js:12 png:https://flagcdn.com/w320/nu.png svg:https://flagcdn.com/nu.svg
+script.js:12 png:https://flagcdn.com/w320/bl.png svg:https://flagcdn.com/bl.svg
+script.js:12 png:https://flagcdn.com/w320/pr.png svg:https://flagcdn.com/pr.svg
+script.js:12 png:https://flagcdn.com/w320/gd.png svg:https://flagcdn.com/gd.svg
+script.js:12 png:https://flagcdn.com/w320/mo.png svg:https://flagcdn.com/mo.svg
+script.js:12 png:https://flagcdn.com/w320/cy.png svg:https://flagcdn.com/cy.svg
+script.js:12 png:https://flagcdn.com/w320/im.png svg:https://flagcdn.com/im.svg
+script.js:12 png:https://flagcdn.com/w320/gr.png svg:https://flagcdn.com/gr.svg
+script.js:12 png:https://flagcdn.com/w320/sy.png svg:https://flagcdn.com/sy.svg
+script.js:12 png:https://flagcdn.com/w320/lt.png svg:https://flagcdn.com/lt.svg
+script.js:12 png:https://flagcdn.com/w320/cw.png svg:https://flagcdn.com/cw.svg
+script.js:12 png:https://flagcdn.com/w320/dm.png svg:https://flagcdn.com/dm.svg
+script.js:12 png:https://flagcdn.com/w320/ne.png svg:https://flagcdn.com/ne.svg
+script.js:12 png:https://flagcdn.com/w320/kg.png svg:https://flagcdn.com/kg.svg
+script.js:12 png:https://flagcdn.com/w320/tt.png svg:https://flagcdn.com/tt.svg
+script.js:12 png:https://flagcdn.com/w320/tg.png svg:https://flagcdn.com/tg.svg
+script.js:12 png:https://flagcdn.com/w320/ps.png svg:https://flagcdn.com/ps.svg
+script.js:12 png:https://flagcdn.com/w320/mg.png svg:https://flagcdn.com/mg.svg
+script.js:12 png:https://flagcdn.com/w320/hr.png svg:https://flagcdn.com/hr.svg
+script.js:12 png:https://flagcdn.com/w320/fo.png svg:https://flagcdn.com/fo.svg
+script.js:12 png:https://flagcdn.com/w320/ht.png svg:https://flagcdn.com/ht.svg
+script.js:12 png:https://flagcdn.com/w320/ms.png svg:https://flagcdn.com/ms.svg
+script.js:12 png:https://flagcdn.com/w320/ck.png svg:https://flagcdn.com/ck.svg
+script.js:12 png:https://flagcdn.com/w320/tl.png svg:https://flagcdn.com/tl.svg
+script.js:12 png:https://flagcdn.com/w320/mq.png svg:https://flagcdn.com/mq.svg
+script.js:12 png:https://flagcdn.com/w320/cu.png svg:https://flagcdn.com/cu.svg
+script.js:12 png:https://flagcdn.com/w320/tw.png svg:https://flagcdn.com/tw.svg
+script.js:12 png:https://flagcdn.com/w320/sz.png svg:https://flagcdn.com/sz.svg
+script.js:12 png:https://flagcdn.com/w320/ua.png svg:https://flagcdn.com/ua.svg
+script.js:12 png:https://flagcdn.com/w320/bm.png svg:https://flagcdn.com/bm.svg
+script.js:12 png:https://flagcdn.com/w320/kr.png svg:https://flagcdn.com/kr.svg
+script.js:12 png:https://flagcdn.com/w320/pe.png svg:https://flagcdn.com/pe.svg
+script.js:12 png:https://flagcdn.com/w320/iq.png svg:https://flagcdn.com/iq.svg
+script.js:12 png:https://flagcdn.com/w320/md.png svg:https://flagcdn.com/md.svg
+script.js:12 png:https://flagcdn.com/w320/sm.png svg:https://flagcdn.com/sm.svg
+script.js:12 png:https://flagcdn.com/w320/ve.png svg:https://flagcdn.com/ve.svg
+script.js:12 png:https://flagcdn.com/w320/gy.png svg:https://flagcdn.com/gy.svg
+script.js:12 png:https://flagcdn.com/w320/ky.png svg:https://flagcdn.com/ky.svg
+script.js:12 png:https://flagcdn.com/w320/kh.png svg:https://flagcdn.com/kh.svg
+script.js:12 png:https://flagcdn.com/w320/cc.png svg:https://flagcdn.com/cc.svg
+script.js:12 png:https://flagcdn.com/w320/mt.png svg:https://flagcdn.com/mt.svg
+script.js:12 png:https://flagcdn.com/w320/lk.png svg:https://flagcdn.com/lk.svg
+script.js:12 png:https://flagcdn.com/w320/il.png svg:https://flagcdn.com/il.svg
+script.js:12 png:https://flagcdn.com/w320/sd.png svg:https://flagcdn.com/sd.svg
+script.js:12 png:https://flagcdn.com/w320/vi.png svg:https://flagcdn.com/vi.svg
+script.js:12 png:https://flagcdn.com/w320/er.png svg:https://flagcdn.com/er.svg
+script.js:12 png:https://flagcdn.com/w320/ml.png svg:https://flagcdn.com/ml.svg
+script.js:12 png:https://flagcdn.com/w320/so.png svg:https://flagcdn.com/so.svg
+script.js:12 png:https://flagcdn.com/w320/nf.png svg:https://flagcdn.com/nf.svg
+script.js:12 png:https://flagcdn.com/w320/km.png svg:https://flagcdn.com/km.svg
+script.js:12 png:https://flagcdn.com/w320/ni.png svg:https://flagcdn.com/ni.svg
+script.js:12 png:https://flagcdn.com/w320/ru.png svg:https://flagcdn.com/ru.svg
+script.js:12 png:https://flagcdn.com/w320/ug.png svg:https://flagcdn.com/ug.svg
+script.js:12 png:https://flagcdn.com/w320/nr.png svg:https://flagcdn.com/nr.svg
+script.js:12 png:https://flagcdn.com/w320/ch.png svg:https://flagcdn.com/ch.svg
+script.js:12 png:https://flagcdn.com/w320/pt.png svg:https://flagcdn.com/pt.svg
+script.js:12 png:https://flagcdn.com/w320/tj.png svg:https://flagcdn.com/tj.svg
+script.js:12 png:https://flagcdn.com/w320/ss.png svg:https://flagcdn.com/ss.svg
+script.js:12 png:https://flagcdn.com/w320/bv.png svg:https://flagcdn.com/bv.svg
+script.js:12 png:https://flagcdn.com/w320/fm.png svg:https://flagcdn.com/fm.svg
+script.js:12 png:https://flagcdn.com/w320/as.png svg:https://flagcdn.com/as.svg
+script.js:12 png:https://flagcdn.com/w320/cz.png svg:https://flagcdn.com/cz.svg
+script.js:12 png:https://flagcdn.com/w320/bw.png svg:https://flagcdn.com/bw.svg
+script.js:12 png:https://flagcdn.com/w320/tn.png svg:https://flagcdn.com/tn.svg
+script.js:12 png:https://flagcdn.com/w320/ai.png svg:https://flagcdn.com/ai.svg
+script.js:12 png:https://flagcdn.com/w320/gw.png svg:https://flagcdn.com/gw.svg
+script.js:12 png:https://flagcdn.com/w320/sk.png svg:https://flagcdn.com/sk.svg
+script.js:12 png:https://flagcdn.com/w320/mh.png svg:https://flagcdn.com/mh.svg
+script.js:12 png:https://flagcdn.com/w320/dz.png svg:https://flagcdn.com/dz.svg
+script.js:12 png:https://flagcdn.com/w320/jm.png svg:https://flagcdn.com/jm.svg
+script.js:12 png:https://flagcdn.com/w320/mz.png svg:https://flagcdn.com/mz.svg
+script.js:12 png:https://flagcdn.com/w320/es.png svg:https://flagcdn.com/es.svg
+script.js:12 png:https://flagcdn.com/w320/hn.png svg:https://flagcdn.com/hn.svg
+script.js:12 png:https://flagcdn.com/w320/nl.png svg:https://flagcdn.com/nl.svg
+script.js:12 png:https://flagcdn.com/w320/za.png svg:https://flagcdn.com/za.svg
+script.js:12 png:https://flagcdn.com/w320/az.png svg:https://flagcdn.com/az.svg
+script.js:12 png:https://flagcdn.com/w320/mk.png svg:https://flagcdn.com/mk.svg
+script.js:12 png:https://flagcdn.com/w320/gm.png svg:https://flagcdn.com/gm.svg
+script.js:12 png:https://flagcdn.com/w320/lr.png svg:https://flagcdn.com/lr.svg
+script.js:12 png:https://flagcdn.com/w320/lu.png svg:https://flagcdn.com/lu.svg
+script.js:12 png:https://flagcdn.com/w320/cv.png svg:https://flagcdn.com/cv.svg
+script.js:12 png:https://flagcdn.com/w320/bs.png svg:https://flagcdn.com/bs.svg
+script.js:12 png:https://flagcdn.com/w320/ge.png svg:https://flagcdn.com/ge.svg
+script.js:12 png:https://flagcdn.com/w320/ki.png svg:https://flagcdn.com/ki.svg
+script.js:12 png:https://flagcdn.com/w320/tz.png svg:https://flagcdn.com/tz.svg
+script.js:12 png:https://flagcdn.com/w320/cn.png svg:https://flagcdn.com/cn.svg
+script.js:12 png:https://flagcdn.com/w320/gt.png svg:https://flagcdn.com/gt.svg
+script.js:12 png:https://flagcdn.com/w320/st.png svg:https://flagcdn.com/st.svg
+script.js:12 png:https://flagcdn.com/w320/de.png svg:https://flagcdn.com/de.svg
+script.js:12 png:https://flagcdn.com/w320/sl.png svg:https://flagcdn.com/sl.svg
+script.js:12 png:https://flagcdn.com/w320/td.png svg:https://flagcdn.com/td.svg
+script.js:12 png:https://flagcdn.com/w320/gb.png svg:https://flagcdn.com/gb.svg
+script.js:12 png:https://flagcdn.com/w320/si.png svg:https://flagcdn.com/si.svg
+script.js:12 png:https://flagcdn.com/w320/th.png svg:https://flagcdn.com/th.svg
+script.js:12 png:https://flagcdn.com/w320/id.png svg:https://flagcdn.com/id.svg
+script.js:12 png:https://flagcdn.com/w320/mp.png svg:https://flagcdn.com/mp.svg
+script.js:12 png:https://flagcdn.com/w320/gu.png svg:https://flagcdn.com/gu.svg
+script.js:12 png:https://flagcdn.com/w320/fi.png svg:https://flagcdn.com/fi.svg
+script.js:12 png:https://flagcdn.com/w320/yt.png svg:https://flagcdn.com/yt.svg
+script.js:12 png:https://flagcdn.com/w320/gi.png svg:https://flagcdn.com/gi.svg
+script.js:12 png:https://flagcdn.com/w320/tm.png svg:https://flagcdn.com/tm.svg
+script.js:12 png:https://flagcdn.com/w320/xk.png svg:https://flagcdn.com/xk.svg
+script.js:12 png:https://flagcdn.com/w320/ci.png svg:https://flagcdn.com/ci.svg
+script.js:12 png:https://flagcdn.com/w320/ma.png svg:https://flagcdn.com/ma.svg
+script.js:12 png:https://flagcdn.com/w320/do.png svg:https://flagcdn.com/do.svg
+script.js:12 png:https://flagcdn.com/w320/gh.png svg:https://flagcdn.com/gh.svg
+script.js:12 png:https://flagcdn.com/w320/va.png svg:https://flagcdn.com/va.svg
+script.js:12 png:https://flagcdn.com/w320/je.png svg:https://flagcdn.com/je.svg
+script.js:12 png:https://flagcdn.com/w320/tr.png svg:https://flagcdn.com/tr.svg
+script.js:12 png:https://flagcdn.com/w320/tv.png svg:https://flagcdn.com/tv.svg
+script.js:12 png:https://flagcdn.com/w320/ir.png svg:https://flagcdn.com/ir.svg
+script.js:12 png:https://flagcdn.com/w320/eg.png svg:https://flagcdn.com/eg.svg
+script.js:12 png:https://flagcdn.com/w320/dk.png svg:https://flagcdn.com/dk.svg
+script.js:12 png:https://flagcdn.com/w320/ke.png svg:https://flagcdn.com/ke.svg
+script.js:12 png:https://flagcdn.com/w320/bg.png svg:https://flagcdn.com/bg.svg
+script.js:12 png:https://flagcdn.com/w320/zw.png svg:https://flagcdn.com/zw.svg
+script.js:12 png:https://flagcdn.com/w320/ao.png svg:https://flagcdn.com/ao.svg
+script.js:12 png:https://flagcdn.com/w320/ng.png svg:https://flagcdn.com/ng.svg
+script.js:12 png:https://flagcdn.com/w320/pl.png svg:https://flagcdn.com/pl.svg
+script.js:12 png:https://flagcdn.com/w320/sn.png svg:https://flagcdn.com/sn.svg
+script.js:12 png:https://flagcdn.com/w320/sh.png svg:https://flagcdn.com/sh.svg
+script.js:12 png:https://flagcdn.com/w320/lb.png svg:https://flagcdn.com/lb.svg
+script.js:12 png:https://flagcdn.com/w320/ws.png svg:https://flagcdn.com/ws.svg
+script.js:12 png:https://flagcdn.com/w320/ph.png svg:https://flagcdn.com/ph.svg
+script.js:12 png:https://flagcdn.com/w320/gg.png svg:https://flagcdn.com/gg.svg
+script.js:12 png:https://flagcdn.com/w320/sv.png svg:https://flagcdn.com/sv.svg
+script.js:12 png:https://flagcdn.com/w320/kw.png svg:https://flagcdn.com/kw.svg
+script.js:12 png:https://flagcdn.com/w320/to.png svg:https://flagcdn.com/to.svg
+script.js:12 png:https://flagcdn.com/w320/om.png svg:https://flagcdn.com/om.svg
+script.js:12 png:https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png svg:https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg
+script.js:12 png:https://flagcdn.com/w320/kn.png svg:https://flagcdn.com/kn.svg
+script.js:12 png:https://flagcdn.com/w320/cf.png svg:https://flagcdn.com/cf.svg
+script.js:12 png:https://flagcdn.com/w320/rs.png svg:https://flagcdn.com/rs.svg
+script.js:12 png:https://flagcdn.com/w320/am.png svg:https://flagcdn.com/am.svg
+script.js:12 png:https://flagcdn.com/w320/bd.png svg:https://flagcdn.com/bd.svg
+script.js:12 png:https://flagcdn.com/w320/la.png svg:https://flagcdn.com/la.svg
+script.js:12 png:https://flagcdn.com/w320/cl.png svg:https://flagcdn.com/cl.svg
+script.js:12 png:https://flagcdn.com/w320/pf.png svg:https://flagcdn.com/pf.svg
+script.js:12 png:https://flagcdn.com/w320/pa.png svg:https://flagcdn.com/pa.svg
+script.js:12 png:https://flagcdn.com/w320/us.png svg:https://flagcdn.com/us.svg
+script.js:12 png:https://flagcdn.com/w320/np.png svg:https://flagcdn.com/np.svg
+script.js:12 png:https://flagcdn.com/w320/mm.png svg:https://flagcdn.com/mm.svg
+script.js:12 png:https://flagcdn.com/w320/fk.png svg:https://flagcdn.com/fk.svg
+script.js:12 png:https://flagcdn.com/w320/hu.png svg:https://flagcdn.com/hu.svg
+script.js:12 png:https://flagcdn.com/w320/pw.png svg:https://flagcdn.com/pw.svg
+script.js:12 png:https://flagcdn.com/w320/gq.png svg:https://flagcdn.com/gq.svg
+script.js:12 png:https://flagcdn.com/w320/gn.png svg:https://flagcdn.com/gn.svg
+script.js:12 png:https://flagcdn.com/w320/ae.png svg:https://flagcdn.com/ae.svg
+script.js:12 png:https://flagcdn.com/w320/tc.png svg:https://flagcdn.com/tc.svg
+script.js:12 png:https://flagcdn.com/w320/vg.png svg:https://flagcdn.com/vg.svg
+script.js:12 png:https://flagcdn.com/w320/li.png svg:https://flagcdn.com/li.svg
+script.js:12 png:https://flagcdn.com/w320/ba.png svg:https://flagcdn.com/ba.svg
+script.js:12 png:https://flagcdn.com/w320/mw.png svg:https://flagcdn.com/mw.svg
+script.js:12 png:https://flagcdn.com/w320/bt.png svg:https://flagcdn.com/bt.svg
+script.js:12 png:https://flagcdn.com/w320/cm.png svg:https://flagcdn.com/cm.svg
+script.js:12 png:https://flagcdn.com/w320/ad.png svg:https://flagcdn.com/ad.svg
+script.js:12 png:https://flagcdn.com/w320/gp.png svg:https://flagcdn.com/gp.svg
+script.js:12 png:https://flagcdn.com/w320/cg.png svg:https://flagcdn.com/cg.svg
+script.js:12 png:https://flagcdn.com/w320/re.png svg:https://flagcdn.com/re.svg
+script.js:12 png:https://flagcdn.com/w320/bf.png svg:https://flagcdn.com/bf.svg
+script.js:12 png:https://flagcdn.com/w320/jo.png svg:https://flagcdn.com/jo.svg
+script.js:12 png:https://flagcdn.com/w320/cd.png svg:https://flagcdn.com/cd.svg
+script.js:12 png:https://flagcdn.com/w320/tk.png svg:https://flagcdn.com/tk.svg
+script.js:12 png:https://flagcdn.com/w320/vn.png svg:https://flagcdn.com/vn.svg
+script.js:12 png:https://flagcdn.com/w320/sx.png svg:https://flagcdn.com/sx.svg
+script.js:12 png:https://flagcdn.com/w320/be.png svg:https://flagcdn.com/be.svg
+script.js:12 png:https://flagcdn.com/w320/um.png svg:https://flagcdn.com/um.svg
+script.js:12 png:https://flagcdn.com/w320/br.png svg:https://flagcdn.com/br.svg
+script.js:12 png:https://flagcdn.com/w320/bz.png svg:https://flagcdn.com/bz.svg
+script.js:12 png:https://flagcdn.com/w320/ag.png svg:https://flagcdn.com/ag.svg
+script.js:12 png:https://flagcdn.com/w320/py.png svg:https://flagcdn.com/py.svg
+script.js:12 png:https://flagcdn.com/w320/bj.png svg:https://flagcdn.com/bj.svg
+script.js:12 png:https://flagcdn.com/w320/bn.png svg:https://flagcdn.com/bn.svg
+script.js:12 png:https://flagcdn.com/w320/bo.png svg:https://flagcdn.com/bo.svg
+script.js:12 png:https://flagcdn.com/w320/dj.png svg:https://flagcdn.com/dj.svg
+script.js:12 png:https://flagcdn.com/w320/gf.png svg:https://flagcdn.com/gf.svg
+script.js:12 png:https://flagcdn.com/w320/ca.png svg:https://flagcdn.com/ca.svg
+script.js:12 png:https://flagcdn.com/w320/pm.png svg:https://flagcdn.com/pm.svg
+script.js:12 png:https://flagcdn.com/w320/jp.png svg:https://flagcdn.com/jp.svg
+script.js:12 png:https://flagcdn.com/w320/rw.png svg:https://flagcdn.com/rw.svg
+script.js:12 png:https://flagcdn.com/w320/vc.png svg:https://flagcdn.com/vc.svg
+script.js:12 png:https://flagcdn.com/w320/is.png svg:https://flagcdn.com/is.svg
+script.js:12 png:https://flagcdn.com/w320/by.png svg:https://flagcdn.com/by.svg
+script.js:12 png:https://flagcdn.com/w320/hk.png svg:https://flagcdn.com/hk.svg
+script.js:12 png:https://flagcdn.com/w320/ls.png svg:https://flagcdn.com/ls.svg
+script.js:12 png:https://flagcdn.com/w320/fj.png svg:https://flagcdn.com/fj.svg
+script.js:12 png:https://flagcdn.com/w320/at.png svg:https://flagcdn.com/at.svg
+script.js:12 png:https://flagcdn.com/w320/co.png svg:https://flagcdn.com/co.svg
+script.js:12 png:https://flagcdn.com/w320/ga.png svg:https://flagcdn.com/ga.svg
+script.js:12 png:https://flagcdn.com/w320/sa.png svg:https://flagcdn.com/sa.svg
+script.js:12 png:https://flagcdn.com/w320/gs.png svg:https://flagcdn.com/gs.svg
+script.js:12 png:https://flagcdn.com/w320/et.png svg:https://flagcdn.com/et.svg
+script.js:12 png:https://flagcdn.com/w320/bq.png svg:https://flagcdn.com/bq.svg
+script.js:12 png:https://flagcdn.com/w320/mc.png svg:https://flagcdn.com/mc.svg
+script.js:12 png:https://flagcdn.com/w320/kp.png svg:https://flagcdn.com/kp.svg
+script.js:12 png:https://flagcdn.com/w320/it.png svg:https://flagcdn.com/it.svg
+script.js:12 png:https://flagcdn.com/w320/na.png svg:https://flagcdn.com/na.svg
+script.js:12 png:https://flagcdn.com/w320/mn.png svg:https://flagcdn.com/mn.svg
+script.js:12 png:https://flagcdn.com/w320/sb.png svg:https://flagcdn.com/sb.svg
+script.js:12 png:https://flagcdn.com/w320/ye.png svg:https://flagcdn.com/ye.svg
+script.js:12 png:https://flagcdn.com/w320/ro.png svg:https://flagcdn.com/ro.svg
+script.js:12 png:https://flagcdn.com/w320/sj.png svg:https://flagcdn.com/sj.svg
+script.js:12 png:https://flagcdn.com/w320/fr.png svg:https://flagcdn.com/fr.svg
+
+-----------------------------------------------------------------------------------------------------------
+
+//QUESTION NO 3:-
+//USE THE SAME REST COUNTRIES AND PRINT ALL COUNTRIES NAMES,REGIONS,SUB-REGION AND POPULATIONS.
+
+
+OUTPUT:-
+^^^^^^^
+script.js:13 Names:Mauritania---Region:Africa---subregion:Western Africa---populations:4649660
+script.js:13 Names:Aruba---Region:Americas---subregion:Caribbean---populations:106766
+script.js:13 Names:Argentina---Region:Americas---subregion:South America---populations:45376763
+script.js:13 Names:Sweden---Region:Europe---subregion:Northern Europe---populations:10353442
+script.js:13 Names:Maldives---Region:Asia---subregion:Southern Asia---populations:540542
+script.js:13 Names:Mexico---Region:Americas---subregion:North America---populations:128932753
+script.js:13 Names:New Zealand---Region:Oceania---subregion:Australia and New Zealand---populations:5084300
+script.js:13 Names:Ecuador---Region:Americas---subregion:South America---populations:17643060
+script.js:13 Names:Wallis and Futuna---Region:Oceania---subregion:Polynesia---populations:11750
+script.js:13 Names:Åland Islands---Region:Europe---subregion:Northern Europe---populations:29458
+script.js:13 Names:Montenegro---Region:Europe---subregion:Southeast Europe---populations:621718
+script.js:13 Names:Pakistan---Region:Asia---subregion:Southern Asia---populations:220892331
+script.js:13 Names:Pitcairn Islands---Region:Oceania---subregion:Polynesia---populations:56
+script.js:13 Names:Zambia---Region:Africa---subregion:Eastern Africa---populations:18383956
+script.js:13 Names:Seychelles---Region:Africa---subregion:Eastern Africa---populations:98462
+script.js:13 Names:Malaysia---Region:Asia---subregion:South-Eastern Asia---populations:32365998
+script.js:13 Names:Norway---Region:Europe---subregion:Northern Europe---populations:5379475
+script.js:13 Names:Uzbekistan---Region:Asia---subregion:Central Asia---populations:34232050
+script.js:13 Names:Vanuatu---Region:Oceania---subregion:Melanesia---populations:307150
+script.js:13 Names:French Southern and Antarctic Lands---Region:Antarctic---subregion:undefined---populations:400
+script.js:13 Names:Christmas Island---Region:Oceania---subregion:Australia and New Zealand---populations:2072
+script.js:13 Names:Singapore---Region:Asia---subregion:South-Eastern Asia---populations:5685807
+script.js:13 Names:Suriname---Region:Americas---subregion:South America---populations:586634
+script.js:13 Names:Western Sahara---Region:Africa---subregion:Northern Africa---populations:510713
+script.js:13 Names:Saint Martin---Region:Americas---subregion:Caribbean---populations:38659
+script.js:13 Names:Costa Rica---Region:Americas---subregion:Central America---populations:5094114
+script.js:13 Names:Heard Island and McDonald Islands---Region:Antarctic---subregion:undefined---populations:0
+script.js:13 Names:Ireland---Region:Europe---subregion:Northern Europe---populations:4994724
+script.js:13 Names:Antarctica---Region:Antarctic---subregion:undefined---populations:1000
+script.js:13 Names:Australia---Region:Oceania---subregion:Australia and New Zealand---populations:25687041
+script.js:13 Names:Libya---Region:Africa---subregion:Northern Africa---populations:6871287
+script.js:13 Names:Qatar---Region:Asia---subregion:Western Asia---populations:2881060
+script.js:13 Names:Greenland---Region:Americas---subregion:North America---populations:56367
+script.js:13 Names:Mauritius---Region:Africa---subregion:Eastern Africa---populations:1265740
+script.js:13 Names:Kazakhstan---Region:Asia---subregion:Central Asia---populations:18754440
+script.js:13 Names:British Indian Ocean Territory---Region:Africa---subregion:Eastern Africa---populations:3000
+script.js:13 Names:Albania---Region:Europe---subregion:Southeast Europe---populations:2837743
+script.js:13 Names:Bahrain---Region:Asia---subregion:Western Asia---populations:1701583
+script.js:13 Names:Papua New Guinea---Region:Oceania---subregion:Melanesia---populations:8947027
+script.js:13 Names:Burundi---Region:Africa---subregion:Eastern Africa---populations:11890781
+script.js:13 Names:India---Region:Asia---subregion:Southern Asia---populations:1380004385
+script.js:13 Names:Uruguay---Region:Americas---subregion:South America---populations:3473727
+script.js:13 Names:Saint Lucia---Region:Americas---subregion:Caribbean---populations:183629
+script.js:13 Names:Barbados---Region:Americas---subregion:Caribbean---populations:287371
+script.js:13 Names:New Caledonia---Region:Oceania---subregion:Melanesia---populations:271960
+script.js:13 Names:Latvia---Region:Europe---subregion:Northern Europe---populations:1901548
+script.js:13 Names:Estonia---Region:Europe---subregion:Northern Europe---populations:1331057
+script.js:13 Names:Niue---Region:Oceania---subregion:Polynesia---populations:1470
+script.js:13 Names:Saint Barthélemy---Region:Americas---subregion:Caribbean---populations:4255
+script.js:13 Names:Puerto Rico---Region:Americas---subregion:Caribbean---populations:3194034
+script.js:13 Names:Grenada---Region:Americas---subregion:Caribbean---populations:112519
+script.js:13 Names:Macau---Region:Asia---subregion:Eastern Asia---populations:649342
+script.js:13 Names:Cyprus---Region:Europe---subregion:Southern Europe---populations:1207361
+script.js:13 Names:Isle of Man---Region:Europe---subregion:Northern Europe---populations:85032
+script.js:13 Names:Greece---Region:Europe---subregion:Southern Europe---populations:10715549
+script.js:13 Names:Syria---Region:Asia---subregion:Western Asia---populations:17500657
+script.js:13 Names:Lithuania---Region:Europe---subregion:Northern Europe---populations:2794700
+script.js:13 Names:Curaçao---Region:Americas---subregion:Caribbean---populations:155014
+script.js:13 Names:Dominica---Region:Americas---subregion:Caribbean---populations:71991
+script.js:13 Names:Niger---Region:Africa---subregion:Western Africa---populations:24206636
+script.js:13 Names:Kyrgyzstan---Region:Asia---subregion:Central Asia---populations:6591600
+script.js:13 Names:Trinidad and Tobago---Region:Americas---subregion:Caribbean---populations:1399491
+script.js:13 Names:Togo---Region:Africa---subregion:Western Africa---populations:8278737
+script.js:13 Names:Palestine---Region:Asia---subregion:Western Asia---populations:4803269
+script.js:13 Names:Madagascar---Region:Africa---subregion:Eastern Africa---populations:27691019
+script.js:13 Names:Croatia---Region:Europe---subregion:Southeast Europe---populations:4047200
+script.js:13 Names:Faroe Islands---Region:Europe---subregion:Northern Europe---populations:48865
+script.js:13 Names:Haiti---Region:Americas---subregion:Caribbean---populations:11402533
+script.js:13 Names:Montserrat---Region:Americas---subregion:Caribbean---populations:4922
+script.js:13 Names:Cook Islands---Region:Oceania---subregion:Polynesia---populations:18100
+script.js:13 Names:Timor-Leste---Region:Asia---subregion:South-Eastern Asia---populations:1318442
+script.js:13 Names:Martinique---Region:Americas---subregion:Caribbean---populations:378243
+script.js:13 Names:Cuba---Region:Americas---subregion:Caribbean---populations:11326616
+script.js:13 Names:Taiwan---Region:Asia---subregion:Eastern Asia---populations:23503349
+script.js:13 Names:Eswatini---Region:Africa---subregion:Southern Africa---populations:1160164
+script.js:13 Names:Ukraine---Region:Europe---subregion:Eastern Europe---populations:44134693
+script.js:13 Names:Bermuda---Region:Americas---subregion:North America---populations:63903
+script.js:13 Names:South Korea---Region:Asia---subregion:Eastern Asia---populations:51780579
+script.js:13 Names:Peru---Region:Americas---subregion:South America---populations:32971846
+script.js:13 Names:Iraq---Region:Asia---subregion:Western Asia---populations:40222503
+script.js:13 Names:Moldova---Region:Europe---subregion:Eastern Europe---populations:2617820
+script.js:13 Names:San Marino---Region:Europe---subregion:Southern Europe---populations:33938
+script.js:13 Names:Venezuela---Region:Americas---subregion:South America---populations:28435943
+script.js:13 Names:Guyana---Region:Americas---subregion:South America---populations:786559
+script.js:13 Names:Cayman Islands---Region:Americas---subregion:Caribbean---populations:65720
+script.js:13 Names:Cambodia---Region:Asia---subregion:South-Eastern Asia---populations:16718971
+script.js:13 Names:Cocos (Keeling) Islands---Region:Oceania---subregion:Australia and New Zealand---populations:544
+script.js:13 Names:Malta---Region:Europe---subregion:Southern Europe---populations:525285
+script.js:13 Names:Sri Lanka---Region:Asia---subregion:Southern Asia---populations:21919000
+script.js:13 Names:Israel---Region:Asia---subregion:Western Asia---populations:9216900
+script.js:13 Names:Sudan---Region:Africa---subregion:Northern Africa---populations:43849269
+script.js:13 Names:United States Virgin Islands---Region:Americas---subregion:Caribbean---populations:106290
+script.js:13 Names:Eritrea---Region:Africa---subregion:Eastern Africa---populations:5352000
+script.js:13 Names:Mali---Region:Africa---subregion:Western Africa---populations:20250834
+script.js:13 Names:Somalia---Region:Africa---subregion:Eastern Africa---populations:15893219
+script.js:13 Names:Norfolk Island---Region:Oceania---subregion:Australia and New Zealand---populations:2302
+script.js:13 Names:Comoros---Region:Africa---subregion:Eastern Africa---populations:869595
+script.js:13 Names:Nicaragua---Region:Americas---subregion:Central America---populations:6624554
+script.js:13 Names:Russia---Region:Europe---subregion:Eastern Europe---populations:144104080
+script.js:13 Names:Uganda---Region:Africa---subregion:Eastern Africa---populations:45741000
+script.js:13 Names:Nauru---Region:Oceania---subregion:Micronesia---populations:10834
+script.js:13 Names:Switzerland---Region:Europe---subregion:Western Europe---populations:8654622
+script.js:13 Names:Portugal---Region:Europe---subregion:Southern Europe---populations:10305564
+script.js:13 Names:Tajikistan---Region:Asia---subregion:Central Asia---populations:9537642
+script.js:13 Names:South Sudan---Region:Africa---subregion:Middle Africa---populations:11193729
+script.js:13 Names:Bouvet Island---Region:Antarctic---subregion:undefined---populations:0
+script.js:13 Names:Micronesia---Region:Oceania---subregion:Micronesia---populations:115021
+script.js:13 Names:American Samoa---Region:Oceania---subregion:Polynesia---populations:55197
+script.js:13 Names:Czechia---Region:Europe---subregion:Central Europe---populations:10698896
+script.js:13 Names:Botswana---Region:Africa---subregion:Southern Africa---populations:2351625
+script.js:13 Names:Tunisia---Region:Africa---subregion:Northern Africa---populations:11818618
+script.js:13 Names:Anguilla---Region:Americas---subregion:Caribbean---populations:13452
+script.js:13 Names:Guinea-Bissau---Region:Africa---subregion:Western Africa---populations:1967998
+script.js:13 Names:Slovakia---Region:Europe---subregion:Central Europe---populations:5458827
+script.js:13 Names:Marshall Islands---Region:Oceania---subregion:Micronesia---populations:59194
+script.js:13 Names:Algeria---Region:Africa---subregion:Northern Africa---populations:44700000
+script.js:13 Names:Jamaica---Region:Americas---subregion:Caribbean---populations:2961161
+script.js:13 Names:Mozambique---Region:Africa---subregion:Eastern Africa---populations:31255435
+script.js:13 Names:Spain---Region:Europe---subregion:Southern Europe---populations:47351567
+script.js:13 Names:Honduras---Region:Americas---subregion:Central America---populations:9904608
+script.js:13 Names:Netherlands---Region:Europe---subregion:Western Europe---populations:16655799
+script.js:13 Names:South Africa---Region:Africa---subregion:Southern Africa---populations:59308690
+script.js:13 Names:Azerbaijan---Region:Asia---subregion:Western Asia---populations:10110116
+script.js:13 Names:North Macedonia---Region:Europe---subregion:Southeast Europe---populations:2077132
+script.js:13 Names:Gambia---Region:Africa---subregion:Western Africa---populations:2416664
+script.js:13 Names:Liberia---Region:Africa---subregion:Western Africa---populations:5057677
+script.js:13 Names:Luxembourg---Region:Europe---subregion:Western Europe---populations:632275
+script.js:13 Names:Cape Verde---Region:Africa---subregion:Western Africa---populations:555988
+script.js:13 Names:Bahamas---Region:Americas---subregion:Caribbean---populations:393248
+script.js:13 Names:Georgia---Region:Asia---subregion:Western Asia---populations:3714000
+script.js:13 Names:Kiribati---Region:Oceania---subregion:Micronesia---populations:119446
+script.js:13 Names:Tanzania---Region:Africa---subregion:Eastern Africa---populations:59734213
+script.js:13 Names:China---Region:Asia---subregion:Eastern Asia---populations:1402112000
+script.js:13 Names:Guatemala---Region:Americas---subregion:Central America---populations:16858333
+script.js:13 Names:São Tomé and Príncipe---Region:Africa---subregion:Middle Africa---populations:219161
+script.js:13 Names:Germany---Region:Europe---subregion:Western Europe---populations:83240525
+script.js:13 Names:Sierra Leone---Region:Africa---subregion:Western Africa---populations:7976985
+script.js:13 Names:Chad---Region:Africa---subregion:Middle Africa---populations:16425859
+script.js:13 Names:United Kingdom---Region:Europe---subregion:Northern Europe---populations:67215293
+script.js:13 Names:Slovenia---Region:Europe---subregion:Central Europe---populations:2100126
+script.js:13 Names:Thailand---Region:Asia---subregion:South-Eastern Asia---populations:69799978
+script.js:13 Names:Indonesia---Region:Asia---subregion:South-Eastern Asia---populations:273523621
+script.js:13 Names:Northern Mariana Islands---Region:Oceania---subregion:Micronesia---populations:57557
+script.js:13 Names:Guam---Region:Oceania---subregion:Micronesia---populations:168783
+script.js:13 Names:Finland---Region:Europe---subregion:Northern Europe---populations:5530719
+script.js:13 Names:Mayotte---Region:Africa---subregion:Eastern Africa---populations:226915
+script.js:13 Names:Gibraltar---Region:Europe---subregion:Southern Europe---populations:33691
+script.js:13 Names:Turkmenistan---Region:Asia---subregion:Central Asia---populations:6031187
+script.js:13 Names:Kosovo---Region:Europe---subregion:Southeast Europe---populations:1775378
+script.js:13 Names:Ivory Coast---Region:Africa---subregion:Western Africa---populations:26378275
+script.js:13 Names:Morocco---Region:Africa---subregion:Northern Africa---populations:36910558
+script.js:13 Names:Dominican Republic---Region:Americas---subregion:Caribbean---populations:10847904
+script.js:13 Names:Ghana---Region:Africa---subregion:Western Africa---populations:31072945
+script.js:13 Names:Vatican City---Region:Europe---subregion:Southern Europe---populations:451
+script.js:13 Names:Jersey---Region:Europe---subregion:Northern Europe---populations:100800
+script.js:13 Names:Turkey---Region:Asia---subregion:Western Asia---populations:84339067
+script.js:13 Names:Tuvalu---Region:Oceania---subregion:Polynesia---populations:11792
+script.js:13 Names:Iran---Region:Asia---subregion:Southern Asia---populations:83992953
+script.js:13 Names:Egypt---Region:Africa---subregion:Northern Africa---populations:102334403
+script.js:13 Names:Denmark---Region:Europe---subregion:Northern Europe---populations:5831404
+script.js:13 Names:Kenya---Region:Africa---subregion:Eastern Africa---populations:53771300
+script.js:13 Names:Bulgaria---Region:Europe---subregion:Southeast Europe---populations:6927288
+script.js:13 Names:Zimbabwe---Region:Africa---subregion:Southern Africa---populations:14862927
+script.js:13 Names:Angola---Region:Africa---subregion:Middle Africa---populations:32866268
+script.js:13 Names:Nigeria---Region:Africa---subregion:Western Africa---populations:206139587
+script.js:13 Names:Poland---Region:Europe---subregion:Central Europe---populations:37950802
+script.js:13 Names:Senegal---Region:Africa---subregion:Western Africa---populations:16743930
+script.js:13 Names:Saint Helena, Ascension and Tristan da Cunha---Region:Africa---subregion:Western Africa---populations:53192
+script.js:13 Names:Lebanon---Region:Asia---subregion:Western Asia---populations:6825442
+script.js:13 Names:Samoa---Region:Oceania---subregion:Polynesia---populations:198410
+script.js:13 Names:Philippines---Region:Asia---subregion:South-Eastern Asia---populations:109581085
+script.js:13 Names:Guernsey---Region:Europe---subregion:Northern Europe---populations:62999
+script.js:13 Names:El Salvador---Region:Americas---subregion:Central America---populations:6486201
+script.js:13 Names:Kuwait---Region:Asia---subregion:Western Asia---populations:4270563
+script.js:13 Names:Tonga---Region:Oceania---subregion:Polynesia---populations:105697
+script.js:13 Names:Oman---Region:Asia---subregion:Western Asia---populations:5106622
+script.js:13 Names:Afghanistan---Region:Asia---subregion:Southern Asia---populations:40218234
+script.js:13 Names:Saint Kitts and Nevis---Region:Americas---subregion:Caribbean---populations:53192
+script.js:13 Names:Central African Republic---Region:Africa---subregion:Middle Africa---populations:4829764
+script.js:13 Names:Serbia---Region:Europe---subregion:Southeast Europe---populations:6908224
+script.js:13 Names:Armenia---Region:Asia---subregion:Western Asia---populations:2963234
+script.js:13 Names:Bangladesh---Region:Asia---subregion:Southern Asia---populations:164689383
+script.js:13 Names:Laos---Region:Asia---subregion:South-Eastern Asia---populations:7275556
+script.js:13 Names:Chile---Region:Americas---subregion:South America---populations:19116209
+script.js:13 Names:French Polynesia---Region:Oceania---subregion:Polynesia---populations:280904
+script.js:13 Names:Panama---Region:Americas---subregion:Central America---populations:4314768
+script.js:13 Names:United States---Region:Americas---subregion:North America---populations:329484123
+script.js:13 Names:Nepal---Region:Asia---subregion:Southern Asia---populations:29136808
+script.js:13 Names:Myanmar---Region:Asia---subregion:South-Eastern Asia---populations:54409794
+script.js:13 Names:Falkland Islands---Region:Americas---subregion:South America---populations:2563
+script.js:13 Names:Hungary---Region:Europe---subregion:Central Europe---populations:9749763
+script.js:13 Names:Palau---Region:Oceania---subregion:Micronesia---populations:18092
+script.js:13 Names:Equatorial Guinea---Region:Africa---subregion:Middle Africa---populations:1402985
+script.js:13 Names:Guinea---Region:Africa---subregion:Western Africa---populations:13132792
+script.js:13 Names:United Arab Emirates---Region:Asia---subregion:Western Asia---populations:9890400
+script.js:13 Names:Turks and Caicos Islands---Region:Americas---subregion:Caribbean---populations:38718
+script.js:13 Names:British Virgin Islands---Region:Americas---subregion:Caribbean---populations:30237
+script.js:13 Names:Liechtenstein---Region:Europe---subregion:Western Europe---populations:38137
+script.js:13 Names:Bosnia and Herzegovina---Region:Europe---subregion:Southeast Europe---populations:3280815
+script.js:13 Names:Malawi---Region:Africa---subregion:Eastern Africa---populations:19129955
+script.js:13 Names:Bhutan---Region:Asia---subregion:Southern Asia---populations:771612
+script.js:13 Names:Cameroon---Region:Africa---subregion:Middle Africa---populations:26545864
+script.js:13 Names:Andorra---Region:Europe---subregion:Southern Europe---populations:77265
+script.js:13 Names:Guadeloupe---Region:Americas---subregion:Caribbean---populations:400132
+script.js:13 Names:Republic of the Congo---Region:Africa---subregion:Middle Africa---populations:5657000
+script.js:13 Names:Réunion---Region:Africa---subregion:Eastern Africa---populations:840974
+script.js:13 Names:Burkina Faso---Region:Africa---subregion:Western Africa---populations:20903278
+script.js:13 Names:Jordan---Region:Asia---subregion:Western Asia---populations:10203140
+script.js:13 Names:DR Congo---Region:Africa---subregion:Middle Africa---populations:108407721
+script.js:13 Names:Tokelau---Region:Oceania---subregion:Polynesia---populations:1411
+script.js:13 Names:Vietnam---Region:Asia---subregion:South-Eastern Asia---populations:97338583
+script.js:13 Names:Sint Maarten---Region:Americas---subregion:Caribbean---populations:40812
+script.js:13 Names:Belgium---Region:Europe---subregion:Western Europe---populations:11555997
+script.js:13 Names:United States Minor Outlying Islands---Region:Americas---subregion:North America---populations:300
+script.js:13 Names:Brazil---Region:Americas---subregion:South America---populations:212559409
+script.js:13 Names:Belize---Region:Americas---subregion:Central America---populations:397621
+script.js:13 Names:Antigua and Barbuda---Region:Americas---subregion:Caribbean---populations:97928
+script.js:13 Names:Paraguay---Region:Americas---subregion:South America---populations:7132530
+script.js:13 Names:Benin---Region:Africa---subregion:Western Africa---populations:12123198
+script.js:13 Names:Brunei---Region:Asia---subregion:South-Eastern Asia---populations:437483
+script.js:13 Names:Bolivia---Region:Americas---subregion:South America---populations:11673029
+script.js:13 Names:Djibouti---Region:Africa---subregion:Eastern Africa---populations:988002
+script.js:13 Names:French Guiana---Region:Americas---subregion:South America---populations:254541
+script.js:13 Names:Canada---Region:Americas---subregion:North America---populations:38005238
+script.js:13 Names:Saint Pierre and Miquelon---Region:Americas---subregion:North America---populations:6069
+script.js:13 Names:Japan---Region:Asia---subregion:Eastern Asia---populations:125836021
+script.js:13 Names:Rwanda---Region:Africa---subregion:Eastern Africa---populations:12952209
+script.js:13 Names:Saint Vincent and the Grenadines---Region:Americas---subregion:Caribbean---populations:110947
+script.js:13 Names:Iceland---Region:Europe---subregion:Northern Europe---populations:366425
+script.js:13 Names:Belarus---Region:Europe---subregion:Eastern Europe---populations:9398861
+script.js:13 Names:Hong Kong---Region:Asia---subregion:Eastern Asia---populations:7500700
+script.js:13 Names:Lesotho---Region:Africa---subregion:Southern Africa---populations:2142252
+script.js:13 Names:Fiji---Region:Oceania---subregion:Melanesia---populations:896444
+script.js:13 Names:Austria---Region:Europe---subregion:Central Europe---populations:8917205
+script.js:13 Names:Colombia---Region:Americas---subregion:South America---populations:50882884
+script.js:13 Names:Gabon---Region:Africa---subregion:Middle Africa---populations:2225728
+script.js:13 Names:Saudi Arabia---Region:Asia---subregion:Western Asia---populations:34813867
+script.js:13 Names:South Georgia---Region:Antarctic---subregion:undefined---populations:30
+script.js:13 Names:Ethiopia---Region:Africa---subregion:Eastern Africa---populations:114963583
+script.js:13 Names:Caribbean Netherlands---Region:Americas---subregion:Caribbean---populations:25987
+script.js:13 Names:Monaco---Region:Europe---subregion:Western Europe---populations:39244
+script.js:13 Names:North Korea---Region:Asia---subregion:Eastern Asia---populations:25778815
+script.js:13 Names:Italy---Region:Europe---subregion:Southern Europe---populations:59554023
+script.js:13 Names:Namibia---Region:Africa---subregion:Southern Africa---populations:2540916
+script.js:13 Names:Mongolia---Region:Asia---subregion:Eastern Asia---populations:3278292
+script.js:13 Names:Solomon Islands---Region:Oceania---subregion:Melanesia---populations:686878
+script.js:13 Names:Yemen---Region:Asia---subregion:Western Asia---populations:29825968
+script.js:13 Names:Romania---Region:Europe---subregion:Southeast Europe---populations:19286123
+script.js:13 Names:Svalbard and Jan Mayen---Region:Europe---subregion:Northern Europe---populations:2562
+script.js:13 Names:France---Region:Europe---subregion:Western Europe---populations:67391582
+
+
+---------------------------------------------------------------------------------------------------------------------
